@@ -1,0 +1,8 @@
+title: 泥泞的虎式.GitHub.io
+description: 邱先生的CSDN博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
